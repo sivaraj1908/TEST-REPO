@@ -10,5 +10,5 @@ void main()
         a=b;
         b=c;
     }
-      printf("The %dth fibonacci series = %llu\n   ",i,c);
+      printf("The %dth fibonacci VALUE = %llu\n   ",i,c);
 }
